@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Prathamesh</h1>
 <!-- <h3 align="center">A developer from India</h3> -->
-<img align ="right"  alt="coding" width=400 src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg0d245cGltb3lycGZvZjF5cTRyaW5pM2tiam1sZ3p3azVzeDQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
+<img align ="right"  alt="coding" width=400 src ="https://media4.giphy.com/media/VpxpIm1coCLZzvgCtB/200.webp?cid=ecf05e47bnrr4fxt6ub2nl9rhpune2qbn9rjslfqx7ppehne&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"><a href="https://www.linkedin.com/in/piyush-yadav-609500234/" target="blank"> <img src="https://komarev.com/ghpvc/?username=itspiyush3451&label=Profile%20views&color=0e75b6&style=flat" alt="itspiyush3451" /> </p>
 
